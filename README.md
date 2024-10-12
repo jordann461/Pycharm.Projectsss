@@ -1,6 +1,5 @@
 # Real Time Face Recognition, Emotion Analysis and Recording System
 
-**Proje Tanımı:** Bu projede, yüz tanıma algoritmaları OpenCV'nin Haar Cascade ve LBPHFaceRecognizer'ı kullanılarak uygulandı. CRUD işlemleri, yüz ve kullanıcı bilgilerinin Docker üzerindeki bir PostgreSQL veritabanında depolanmasıyla gerçekleştirildi. Kamera akışından gelen görüntüler üzerinde gerçek zamanlı yüz algılama ve tanıma işlemleri gerçekleştirildi.
-Aynı zamanda, Yüz Duygu Tanıma testi ile, insan yüzlerini tanımak için derin öğrenme tabanlı bir yapay zeka modeli kullanıldı ve yüz ifadelerinden duygu tanıma, yaş tespiti, cinsiyet tespiti ve gerçek zamanlı duygu tespiti gibi işlemler gerçekleştirildi.
+**Project Description:** In this project, face recognition algorithms were implemented using OpenCV’s Haar Cascade and LBPHFaceRecognizer. CRUD operations were performed by storing face and user information in a PostgreSQL database on Docker. Real-time face detection and recognition operations were performed on images from the camera stream. At the same time, with the Face Emotion Recognition test, a deep learning-based artificial intelligence model was used to recognize human faces and operations such as emotion recognition from facial expressions, age detection, gender detection and real-time emotion detection were performed.
 
-**Geliştirici:** Kübra Demir
+**Developer:** Kübra Demir
